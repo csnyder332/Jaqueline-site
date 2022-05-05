@@ -89,6 +89,13 @@ body {
   -webkit-tap-highlight-color: #7F9695;
 }
 
+img {
+  float: left;
+  width:  100px;
+  height: 500px;
+  object-fit: cover;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
